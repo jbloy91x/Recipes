@@ -51,7 +51,11 @@ Note: the garlic roasts at 400°F while the roast cooks at 325°F, so do the gar
 
 ## Slow Cooker Option
 
-Brown the chuck roast and aromatics first for extra flavor, then cook with the apple cider and other ingredients on low until the beef is tender and easy to shred.
+- Sear the beef in batches and sauté the onion, garlic, and sage first, as in the oven method — the slow cooker won't brown them.
+- Liquid: cut the cider back to about 3 cups instead of 5 — a slow cooker barely evaporates, so the full 5 cups leaves it watery.
+- Cook on low 7–8 hours, or on high 4–5 hours, until the beef is tender and easy to shred.
+- Carrots: add them in the last 1–2 hours, or they'll fall apart over a long cook.
+- Sauce: lift out the beef and carrots, then reduce the cooking liquid on the stove (or on high with the lid off) for 15–20 minutes, as in the oven method.
 
 ## Instant Pot Adaptation
 
