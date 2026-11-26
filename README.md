@@ -21,3 +21,7 @@ Recipes worth keeping.
 ## Breakfast
 
 - [Protein Breakfast Bars](protein-breakfast-bars.md) — the oatmeal bowl as grab-and-go bars. 4 bars, ~235 cal / ~23g protein each.
+
+## Cocktails
+
+- [Siesta](cocktails/siesta.md) — tequila, Campari, lime, simple syrup. Shaken.
