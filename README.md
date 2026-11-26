@@ -25,3 +25,4 @@ Recipes worth keeping.
 ## Cocktails
 
 - [Siesta](cocktails/siesta.md) — tequila, Campari, lime, simple syrup. Shaken.
+- [Margarita](cocktails/margarita.md) — classic on the rocks. Silver tequila, orange liqueur, lime. Shaken.
